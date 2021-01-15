@@ -1,4 +1,4 @@
-# reverse-engineering
+# passport-demo
 ![{data.license}](https://shields.io/badge/license-MIT-green)
 
 ## Description
@@ -10,7 +10,7 @@ By the end of the tutorial, you'll also find instructions to add enhancements to
 
 ## Content
 
-* [GitHub Repository](https://github.com/Rudy-Menjivar/reverse-engineering/)
+* [GitHub Repository](https://github.com/Rudy-Menjivar/passport-demo/)
 
 * [Installation](#installation)
 
@@ -60,7 +60,7 @@ To participate in this project, please review the following guidelines:
     
    `git push -u origin <branchName>`
     
-5. Finally, submit [feature requests and bugs](https://github.com/Rudy-Menjivar/reverse-engineering/issues) and open a [pull request](https://github.com/Rudy-Menjivar/reverse-engineering/pulls)
+5. Finally, submit [feature requests and bugs](https://github.com/Rudy-Menjivar/passport-demo/issues) and open a [pull request](https://github.com/Rudy-Menjivar/passport-demo/pulls)
   
 
 ## License
