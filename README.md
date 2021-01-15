@@ -22,10 +22,12 @@ By the end of the tutorial, you'll also find instructions to add enhancements to
 
 ## Installation
 
-Run the following command to install the required dependencies:
-```
-npm i
-```
+1. Run the following command to install the required dependencies:
+
+   * `npm i`
+
+2. Create a local database that matches the name found in the config/config.json file
+   * Make sure that the user name and password also match with your local database (e.g. MySQL Workbench)
   
 
 ## Usage
