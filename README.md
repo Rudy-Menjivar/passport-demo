@@ -72,5 +72,5 @@ Licensed under the [MIT](./LICENSE.txt) license.
 
 ## Questions
   
-You can find my complete work at [GitHub](https://github.com/Rudy-Menjivar) and if you have any questions, then feel free to contact by email.
+You can find my complete work at <a href="https://github.com/Rudy-Menjivar" target="_blank">GitHub</a>and if you have any questions, then feel free to contact by email.
 * rudy.menjivar@gmail.com
