@@ -3,7 +3,9 @@
 
 ## Description
     
-This repository includes starter code which has been reviewed to reverse engineer it. A tutorial has been created to explain every file and its purpose, as well as any dependency of other files. By the end of the tutorial, instructions have also been included for any possible additions or changes to this starter code.
+This repository includes starter code which has been reviewed to reverse engineer it. A tutorial has been created to explain every file and its purpose, as well as any dependency of other files.
+
+By the end of the tutorial, you'll also find instructions to add enhancements to this starter code.
     
 
 ## Content
@@ -15,8 +17,6 @@ This repository includes starter code which has been reviewed to reverse enginee
 * [Usage](#usage)
 
 * [Contributing](#contributing)
-
-* [Tests](#tests)
 
 * [Questions](#questions)
 
@@ -59,14 +59,6 @@ To participate in this project, please review the following guidelines:
    `git push -u origin <branchName>`
     
 5. Finally, submit [feature requests and bugs](https://github.com/Rudy-Menjivar/reverse-engineering/issues) and open a [pull request](https://github.com/Rudy-Menjivar/reverse-engineering/pulls)
-    
-
-## Tests
-    
-For testing, run this command:
-```
-npm run test
-```
   
 
 ## License
