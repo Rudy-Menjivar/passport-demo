@@ -32,11 +32,11 @@ By the end of the tutorial, you'll also find instructions to add enhancements to
 
 ## Usage
 
-Run this command to invoke this application:
-```
-node server.js
-```
-  
+1. Run this command to invoke this application:
+   * `node server.js`
+
+2. Then visit the address listed in your console.log, **e.g.**
+   * http://localhost:8080/
 
 ## Contributing
     
