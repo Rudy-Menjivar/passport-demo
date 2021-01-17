@@ -3,14 +3,14 @@
 
 ## Description
     
-This repository includes starter code which has been reviewed to reverse engineer it. A tutorial has been created to explain every file and its purpose, as well as any dependency of other files.
-
-By the end of the tutorial, you'll also find instructions to add enhancements to this starter code.
+This repository includes starter code which has been reviewed to reverse engineer it. A tutorial has been created to explain every file and its purpose, as well as any dependency of other files. Additional instructions have also been included to add enhancements to this starter code.
     
 
 ## Content
 
 * [GitHub Repository](https://github.com/Rudy-Menjivar/passport-demo/)
+
+* [Tutorial](#tutorial)
 
 * [Installation](#installation)
 
@@ -29,6 +29,10 @@ By the end of the tutorial, you'll also find instructions to add enhancements to
 2. Create a local database that matches the name found in the config/config.json file
    * Make sure that the user name and password also match with your local database (e.g. MySQL Workbench)
   
+
+## Tutorial
+
+The tutorial is available via this <a href="https://docs.google.com/document/d/1W-xtEI6Sm560HCOV3PjVgbEbnFtGgjG7qct5li78KUc/edit?usp=sharing" target="_blank">Google Doc</a>.
 
 ## Usage
 
